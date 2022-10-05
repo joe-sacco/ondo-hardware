@@ -8,7 +8,8 @@
 <br />
 <div align="center">
 <a href="https://github.com/team-ondo/backend">
-<img src="docs/images/logo_current.png" alt="Logo" width="350" height="119">
+<!-- <img src="docs/images/logo_current.png" alt="Logo" width="350" height="119"> -->
+<img src="https://user-images.githubusercontent.com/102517425/194001949-a8fc5839-64fe-4e7b-9bfc-e0f36059e5a5.png" alt="Logo" width="800" height="450">
 </a>
 
 <h3 align="center">ondo-hardware</h3>
