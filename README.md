@@ -11,8 +11,14 @@
 <!-- <img src="docs/images/logo_current.png" alt="Logo" width="350" height="119"> -->
 <img src="https://user-images.githubusercontent.com/102517425/194001949-a8fc5839-64fe-4e7b-9bfc-e0f36059e5a5.png" alt="Logo" width="800" height="450">
 </a>
-
 <h3 align="center">ondo-hardware</h3>
+
+<p>
+Ondo is an IoT device and online service that allows health care workers to monitor the temperature and humidity of elderly homes in order to ensure their safety during hot and cold months. Provides live SMS notifications when conditions inside the home become life threatening.
+</p>
+<br />
+
+
 
   <p align="center">
     Hardware implementation of ondo
@@ -20,11 +26,18 @@
     <a href="https://github.com/team-ondo/hardware"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ondo.onrender.com/">View Demo</a>
+    <a href="https://ondo.onrender.com/">Website</a>
+    ·
+    <a href="https://vimeo.com/766400958/29769edc0d">Video Demo</a>
     ·
     <a href="https://github.com/team-ondo/hardware/issues">Report Bug</a>
     ·
     <a href="https://github.com/team-ondo/hardware/issues">Request Feature</a>
+    ·
+    <br />
+    <a href="https://github.com/joe-sacco/ondo-frontend">Frontend Repo</a>
+    ·
+    <a href="https://github.com/joe-sacco/ondo-backend">Backend Repo</a>
   </p>
 </div>
 
